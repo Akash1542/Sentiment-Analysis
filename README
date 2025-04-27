@@ -1,0 +1,32 @@
+Project Title: Sentiment Analysis on Movie Reviews
+Course Number: IST 664
+Course Title: Natural Language Processing
+
+Description:
+This project focuses on classifying movie reviews into sentiment categories using Natural Language Processing (NLP) techniques. Utilizing Python, the project encompasses data preprocessing, feature extraction, model training, and evaluation to determine the sentiment polarity of movie reviews.
+
+Contents:
+- nlp (1).py: Python script containing the implementation of sentiment analysis, including data loading, preprocessing, feature extraction, model training, and evaluation.
+- NLP_ReportAkash (1).pdf: PDF report summarizing the project's objectives, methodology, results, and conclusions.
+
+Software Requirements:
+- Python 3.8 or higher
+- Required Python libraries:
+  - pandas
+  - numpy
+  - nltk
+  - scikit-learn
+
+How to Open/Review:
+1. Ensure Python is installed on your system.
+2. Install the required libraries using pip:
+3. Open `nlp (1).py` in a Python IDE or text editor to review the code.
+4. Run the script to execute the sentiment analysis pipeline.
+5. Open `NLP_ReportAkash (1).pdf` using any PDF viewer to read the project summary.
+
+Notes:
+- The dataset used for this project is assumed to be included or specified within the script.
+- Ensure that the necessary NLTK data packages are downloaded before running the script:
+
+Author:
+Sai Akash Addala
